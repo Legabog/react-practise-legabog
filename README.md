@@ -1,2 +1,2 @@
-# react-lessons-legabog
+# react-practice-legabog
 Some practise with React.js
